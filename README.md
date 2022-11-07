@@ -1,4 +1,4 @@
-# Remix example app with Tailwind
+# Remix template with Tailwind
 <p align="center">
   <a href="https://tailwindcss.com" target="_blank">
     <picture>
